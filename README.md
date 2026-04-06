@@ -6,4 +6,3 @@ Hi! I'm Pujan, a web developer specializing in Shopify and modern web tech. Welc
 🛠️ Built with HTML, CSS, JS, Bootstrap.
 📂 Showcases work like Swarnika Sarees.
 
-🔗 Let's connect on LinkedIn!
